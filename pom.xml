@@ -11,6 +11,10 @@
     <modules>
         <module>java-回调</module>
         <module>java-多线程</module>
+        <module>java-i++</module>
+        <module>java-Aarray.toArray</module>
+        <module>java-JVM</module>
+        <module>java-Map</module>
     </modules>
     <dependencies>
         <dependency>

@@ -15,6 +15,7 @@
         <module>java-Aarray.toArray</module>
         <module>java-JVM</module>
         <module>java-Map</module>
+        <module>algorithm-1</module>
     </modules>
     <dependencies>
         <dependency>

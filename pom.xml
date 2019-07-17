@@ -16,6 +16,7 @@
         <module>java-JVM</module>
         <module>java-Map</module>
         <module>algorithm-1</module>
+        <module>java-数组</module>
     </modules>
     <dependencies>
         <dependency>
